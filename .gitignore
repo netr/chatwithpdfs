@@ -1,0 +1,6 @@
+venv/
+.env
+*.pkl
+*.pdf
+
+.idea/
